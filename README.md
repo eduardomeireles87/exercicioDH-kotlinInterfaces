@@ -31,7 +31,11 @@ Crie uma função que imprima tudo que está na listaimprimivel, nessa função 
 for 
 
 (tipoDaLista in nomeDaLista){
+
+
 //execute o bloco
+
+
 }
 
 
